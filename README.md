@@ -20,14 +20,17 @@
 
 
 
-### 🐍 Моя GitHub Змейка
+
 
 <!-- График активности в виде игры "Змейка". Настраивается через GitHub Actions (см. инструкцию ниже) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ТВОЙ_НИКНЕЙМ/ТВОЙ_НИКНЕЙМ/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ТВОЙ_НИКНЕЙМ/ТВОЙ_НИКНЕЙМ/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ТВОЙ_НИКНЕЙМ/ТВОЙ_НИКНЕЙМ/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <h2>🐍 GitHub Activity Snake</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skary.cc/skary.cc/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skary.cc/skary.cc/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/skary.cc/skary.cc/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
