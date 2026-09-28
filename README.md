@@ -1,7 +1,9 @@
 <div align="center">
 
   <!-- ПРИВЕТСТВИЕ И GIF -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=Welcome+To+SKARY.CC+" alt="Typing SVG" /></a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1200&color=E06C75&center=true&vCenter=true&width=480&lines=%3Cskary.cc+%2F%3E;Code.+Create.+Repeat.;Ready+to+collaborate!+%F0%9F%9A%80" alt="skary.cc typing header" />
+</div>
 
   <p align="center">
     <b>Разработчик | Open-Source Энтузиаст | Создатель Проектов</b>
